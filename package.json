@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "demo": "webpack-dev-server --open"
+    "demo": "webpack server --open"
   },
   "dependencies": {
     "react": "17.0.2",
