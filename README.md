@@ -1,7 +1,5 @@
-TypeScript React "webpack-bundle-analyzer" Demo
+TypeScript Webpack5 React Demo
 =================================
-
-对webpack生成的bundle文件进行分析，图形化方式看到其内容及占比
 
 ```
 npm install
