@@ -17,6 +17,9 @@ const config: Configuration = {
     rules: [{
       test: /\.tsx?$/,
       loader: 'ts-loader',
+      options: {
+        
+      },
       exclude: /node_modules/
     }]
   },

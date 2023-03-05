@@ -1,4 +1,4 @@
-TypeScript Webpack Demo
+TypeScript Webpack "raw-loader" Read File as Text Demo
 =================================
 
 ```
